@@ -10,6 +10,21 @@
 ###Install composer
 
 
+###Install NPM
+  npm install
+
+###Install gulped
+  npm install -g gulp
+  gulp & gulp watch
+
+
+php artisan key:generate
+
+php artisan migrate
+
+
+
+
 
 ToDo
 ------
